@@ -1,0 +1,5 @@
+Project Console: https://console.firebase.google.com/project/flife-project/overview
+Hosting URL: https://flife-project.web.app
+
+
+https://github.com/auliaguss/auliaguss.github.io
