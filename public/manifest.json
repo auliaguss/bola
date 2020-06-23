@@ -1,0 +1,22 @@
+{
+    "name": "No Football No Life",
+    "gcm_sender_id": "936213608897",
+    "short_name": "FLife",
+    "description": "A Progressive Web App About Football That Made By Someone Who Doesn't Even Know Football'",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "black",
+    "icons": [
+        {
+            "src": "/img/bola.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/bola.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]   
+}
